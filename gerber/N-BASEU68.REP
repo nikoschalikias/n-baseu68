@@ -1,0 +1,202 @@
+*************************************************************
+FileName = N-BASEU68.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : N-BASEU68.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : GND-PLANE
+      File : N-BASEU68.GP1
+
+    Adding Layer      : GND-PLANE
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : N-BASEU68.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : N-BASEU68.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D22
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : N-BASEU68.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : N-BASEU68.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : N-BASEU68.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : N-BASEU68.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : N-BASEU68.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 3
+      File : N-BASEU68.GM3
+
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+    D22
+*************************************************************
+
