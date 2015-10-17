@@ -2,6 +2,7 @@ Output: Gerber Files
 Type  : Gerber
 From  : Variant [[No Variations]] of PCB Document [N-BASEU68.PcbDoc]
    Generated File[N-BASEU68.GTL]
+   Generated File[N-BASEU68.G1]
    Generated File[N-BASEU68.GP1]
    Generated File[N-BASEU68.GBL]
    Generated File[N-BASEU68.GTO]
@@ -16,7 +17,7 @@ From  : Variant [[No Variations]] of PCB Document [N-BASEU68.PcbDoc]
    Generated File[N-BASEU68.REP]
 
 
-Files Generated   : 13
+Files Generated   : 14
 Documents Printed : 0
 
-Finished Output Generation At 14:03:50 On 17/10/2015
+Finished Output Generation At 14:16:37 On 17/10/2015
