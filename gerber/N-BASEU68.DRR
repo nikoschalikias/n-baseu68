@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: N-BASEU68.PcbDoc   17/10/2015  14:16:36
+NCDrill File Report For: N-BASEU68.PcbDoc   19/10/2015  10:38:54
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,11 +7,11 @@ ASCII RoundHoles File : N-BASEU68.TXT
 
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        0.2mm (7.874mil)         Round          80               317.72 mm (12.51 Inch)
+T1        0.2mm (7.874mil)         Round          79               313.48 mm (12.34 Inch)
 T2        0.8mm (31.496mil)        Round          20               88.00 mm (3.46 Inch)
-T3        1mm (39.37mil)           Round          31               136.63 mm (5.38 Inch)
+T3        1mm (39.37mil)           Round          31               177.07 mm (6.97 Inch)
 T4        2mm (78.74mil)           Round          4                96.49 mm (3.80 Inch)
 ---------------------------------------------------------------------------
-Totals                                            135              638.84 mm (25.15 Inch)
+Totals                                            134              675.04 mm (26.58 Inch)
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01
