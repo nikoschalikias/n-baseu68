@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=Project Outputs for n-baseU68
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -291,6 +291,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Parameter1]
+Name=OrderQty
+Value=25
+
+[Parameter2]
+Name=prj
+Value=n-baseU68
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -302,7 +310,7 @@ GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for n-baseU68
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

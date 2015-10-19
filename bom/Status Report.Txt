@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 10:43:14 On 19/10/2015
+Start Output Generation At 11:25:52 On 19/10/2015
 
-Output: Bill of Materials
+Output: PurchaseList.xlsx
 Type  : BOM
 From  : Variant [[No Variations]] of Project [n-baseU68.PrjPcb]
-   Generated File[bom4pv.csv]
+   Generated File[PurchaseList.xlsx]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 10:43:33 On 19/10/2015
+Finished Output Generation At 11:26:07 On 19/10/2015
